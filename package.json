@@ -1,0 +1,24 @@
+{
+  "name": "learn",
+  "version": "0.1.0",
+  "description": "learning nodejs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MermizzleInc/learn.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MermizzleInc/learn/issues"
+  },
+  "homepage": "https://github.com/MermizzleInc/learn#readme",
+  "dependencies": {
+    "webpack": "^5.47.1",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
